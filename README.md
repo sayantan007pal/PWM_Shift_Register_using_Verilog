@@ -8,6 +8,7 @@ This Verilog project includes two main modules, PWM_Gen and ShiftReg, along with
 
 PWM_Gen:
 Generates Pulse Width Modulation (PWM) signals based on preset duty cycles. It uses an internal counter and shifts the duty cycle values through a shift register.
+
 ShiftReg:
 A shift register that shifts input bits through an 8-bit register and latches the output.
 
